@@ -11,6 +11,7 @@
     ],
     "removeComments": true,
     "allowSyntheticDefaultImports": true,
+    "noFallthroughCasesInSwitch": true,
     "jsx": "react",
     "allowJs": true,
     "esModuleInterop": true,
